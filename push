@@ -1,0 +1,5 @@
+git init
+git add simple_filter.py README.md .gitignore LICENSE
+git commit -m "Initial commit: Simple student web filter prototype"
+git remote add origin https://github.com/your-username/simple-student-web-filter.git
+git push -u origin main
